@@ -1,0 +1,9 @@
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/DSA_VS.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/edit_cache.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/rebuild_cache.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/list_install_components.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/install.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/install/local.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/install/strip.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/DSA_VS_autogen_timestamp_deps.dir
+/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/CMakeFiles/DSA_VS_autogen.dir
