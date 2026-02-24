@@ -1,9 +1,0 @@
-# ninja log v6
-5	1111	1771964488262029950	DSA_VS_autogen/timestamp	dd69a4b817c684a1
-5	1111	1771964488262029950	DSA_VS_autogen/mocs_compilation.cpp	dd69a4b817c684a1
-5	1111	1771964488262029950	/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/DSA_VS_autogen/timestamp	dd69a4b817c684a1
-5	1111	1771964488262029950	/home/rusty/dev/DSA-VS/gui/build/WebAssembly_Qt_6_10_2_multi_threaded-Debug/DSA_VS_autogen/mocs_compilation.cpp	dd69a4b817c684a1
-1124	6827	1771964488293029560	CMakeFiles/DSA_VS.dir/main.cpp.o	3fbefcf4e2788b9d
-1123	6887	1771964488292029573	CMakeFiles/DSA_VS.dir/DSA_VS_autogen/mocs_compilation.cpp.o	43f7706c9fe1b31f
-1124	7592	1771964488294318132	CMakeFiles/DSA_VS.dir/Window.cpp.o	2062a99a7db08900
-7592	12854	1771964494760948247	DSA_VS.js	1291bf2f6b2dffef
